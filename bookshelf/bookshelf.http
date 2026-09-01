@@ -1,6 +1,0 @@
-@bookshelf_HostAddress = http://localhost:5199
-
-GET {{bookshelf_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
